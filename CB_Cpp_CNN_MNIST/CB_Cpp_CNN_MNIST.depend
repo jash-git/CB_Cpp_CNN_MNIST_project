@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1648709583 source:c:\users\user\desktop\cb_cpp_cnn_mnist\cnn.cpp
+	"CNN.h"
+
+1648709493 c:\users\user\desktop\cb_cpp_cnn_mnist\cnn.h
+	"global.h"
+
+1648708935 source:c:\users\user\desktop\cb_cpp_cnn_mnist\main.cpp
+	<iostream>
+	"CNN.h"
+
+1648709294 c:\users\user\desktop\cb_cpp_cnn_mnist\global.h
+	<cmath>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+
